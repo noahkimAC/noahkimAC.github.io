@@ -42,19 +42,29 @@
       "name": "Streaming platforms",
       "keywords": [
       ]
+    },
+    {
+      "name": "Listening to/ making music",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Trilingual",
       "level": "",
       "keywords": [
+        "Korean"
+        "Beginner Chinese"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Microsoft Office",
       "level": "",
       "keywords": [
+        "Word",
+        "Excel",
+        "PowerPoint"
       ]
     },
     {
@@ -70,8 +80,8 @@
       "level": "",
       "keywords": [
         "Distrokid",
-        "Apple Music",
-        "Spotify"
+        "Apple Music for Artists",
+        "Spotify for Artists"
       ]
     }
   ],
@@ -114,6 +124,16 @@
         "Demonstrate knowledge of meals and procedures regarding breakfast, lunch, and dinner service",
         "Delegate responsibility amongst other servers",
         "Train newer employees in proper procedures"
+      ]
+    },
+    {
+      "company": "Gazen Izakaya",
+      "position": "Dishwasher/ Kitchen Help",
+      "website": "",
+      "startDate": "2017-06",
+      "endDate": "2017-08",
+      "summary": "",
+      "highlights": [
       ]
     }
   ],
