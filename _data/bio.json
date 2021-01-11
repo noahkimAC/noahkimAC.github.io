@@ -130,22 +130,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2018-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
       "title": "Dean's List",
       "date": "Fall 2018, Fall 2019, Spring 2020, Fall 2020",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Awarded to undergraduates who have achieved a semester grade point average of 3.5 or higher in a 12 credit or more taken for a grade"
+      "summary": "Awarded to undergraduates who have achieved a semester grade point average of 3.5 or higher in a 12 credit or more taken for a grade."
     },
     {
       "title": "The Sherwin-Williams Company Aloha Scholarship Fund",
       "date": "2018-2019",
       "awarder": "Sherwin-Williams",
-      "summary": "Awarded to students planning to/ attending a four-year college majoring in business finance, marketing, or management maintaining a grade point average of 3.0 or more"
+      "summary": "Awarded to students planning to/ attending a four-year college majoring in business finance, marketing, or management maintaining a grade point average of 3.0 or more."
     }
   ],
   "references": [
