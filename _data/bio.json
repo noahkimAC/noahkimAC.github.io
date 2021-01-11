@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Noah Kim",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://noahkimAC.github.io/images/NoahKimHeadshot.jpg",
+    "email": "kimnoah@hawaii.edu",
+    "phone": "808-589-9719",
+    "website": "https://noahkimAC.github.io",
+    "summary": "I am a junior at the University of Hawaii at Manoa pursuing a double major in Management and Management Info. Systems supplemented by an English minor. I am expected to graduate in Spring 2022.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "2724 Kahoaloha Lane",
+      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "noahkimAC",
+        "url": "http://github.com/noahkimAC"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "noahkimAC",
+        "url": "http://linkedin.com/in/noahkimAC"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Data analytics",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Music engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Streaming platforms",
       "keywords": [
       ]
     }
@@ -84,9 +72,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Management & Management Information Systems, English minor (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-20",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,69 +83,80 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Republic Retailers",
+      "position": "Retail Sales Associate",
+      "website": "https://www.surfcampshop.com",
+      "startDate": "2019-03-18",
+      "endDate": "2020-10-10",
+      "summary": "Retail sales associate",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Update and maintain sales through the retail POS system",
+        "Manage sales and transactions of customer purchases and returns",
+        "Fluently conversate in multilingual conversations with customers",
+        "Provide exemplary service to customers on the sales floor"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Holiday Retirement",
+      "position": "Server",
+      "website": "https://www.holidayseniorliving.com/senior-apartments/hawaii/hawaii-kai-honolulu",
+      "startDate": "2018-04-01",
+      "endDate": "2019-02-01",
+      "summary": "Server/ waiter for the dining room",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Effectively execute dining room operations such as orders, food service, and dining room maintenance",
+        "Demonstrate knowledge of meals and procedures regarding breakfast, lunch, and dinner service",
+        "Delegate responsibility amongst other servers",
+        "Train newer employees in proper procedures"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Family Promise",
+      "website": "https://www.familypromisehawaii.org",
+      "position": "Student Volunteer",
+      "startDate": "2011-07-01",
+      "endDate": "2017-07-01",
+      "summary": "Student volunteer",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Assist set-up and break-down of temporary shelters",
+        "Provide and serve meals for participants of the program",
+        "Establish personal connections and moral support through conversation"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Parker United Methodist Church",
+      "website": "http://pumc.moanacreative.com",
+      "position": "Audio/ Visual Volunteer Technician",
+      "startDate": "2016-07-01",
+      "endDate": "Present",
+      "summary": "Volunteer technician for audio/ visual aspects of the church",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Organize and take charge of the other volunteers during operation",
+        "Maintain proper care and operation of the equipment used for service",
+        "Troubleshoot AV issues during service through a master mixer"
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2018-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "Fall 2018, Fall 2019, Spring 2020, Fall 2020",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to undergraduates who have achieved a semester grade point average of 3.5 or higher in a 12 credit or more taken for a grade"
+    },
+    {
+      "title": "The Sherwin-Williams Company Aloha Scholarship Fund",
+      "date": "2018-2019",
+      "awarder": "Sherwin-Williams",
+      "summary": "Awarded to students planning to/ attending a four-year college majoring in business finance, marketing, or management maintaining a grade point average of 3.0 or more"
     }
   ],
   "references": [
