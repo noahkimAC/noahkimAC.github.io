@@ -4,8 +4,7 @@ type: essay
 title: Why MIS? Introduction
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-11
-labels:
-  
+labels: 
 ---
 
 Hello, my name is Noah and I am majoring in Management Information Systems and Management with a minor in English. 
