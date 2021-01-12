@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: Why MIS? Introduction
-# All dates must be YYYY-MM-DD format!
 date: 2020-01-11
 labels: 
 ---
