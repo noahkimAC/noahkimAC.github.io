@@ -13,7 +13,7 @@ I switched up my strategy and instead went through the steps alongside the scree
 I did clip the first second of my first video because I was unfamiliar with the lag time that QuickTime has, it records like 2 seconds after you start screen recording. So my video starts off with the timer at 1 second so make sure you know how to use your screen recording application of choice.
 
 ### Side Note
-I felt a bit scared because I was making it under the times and thought that I was skipping a step but I went over my recording with both the screencast and the instructions and realized I didn't skip anything. 
+I felt a bit scared because I was making fast times (Rx and Av) and thought that I was skipping a step but I went over my recording with both the screencast and the instructions and realized I didn't skip anything. 
 
 ### Advice 
 My biggest advice is to thoroughly do the readings beforehand and even follow along especially with the HTML and CSS tutorials. Then, get adjusted to your screen recording tool/ timer of choice and have the timer tab open so you can start it as soon as possible. Even if you do not understand what is going on, it will start to click while you are doing your WODs. Another piece of advice is that it is okay if you do not understand the instructions, just breathe, watch the screencast and follow along. I will add that you shouldn't settle with a recording, if you stumble or mess up, do not breeze through it but acknowledge it and re-record it because good habits will be beneficial in the fluidity of your future WODs. 
