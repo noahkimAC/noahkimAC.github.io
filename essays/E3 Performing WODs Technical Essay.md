@@ -7,7 +7,8 @@ labels: Invoice1, WODs, Technical Essay
 ---
 
 ## Invoice 1
-[Please use this link to view instructions to the WOD and further details] (https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html)
+Please use this link to view instructions to the WOD and further details:
+https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html
 
 ### Experience Performing the WOD
 Regarding the WOD itself, I found this to be the toughest one yet simply due to the fact that I felt I spent less kinetic learning with Javascript compared to the previous WODs (BrowserHistory 1-6). I'm not saying that I didn't read the materials but rather I learn through making mistakes and having to stare at the same wrong code to get it through to my head. However, I did realize that I was digesting the content and concepts at a significantly faster rate than compared to the previous WODs. 
