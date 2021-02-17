@@ -5,6 +5,7 @@ title: E3: Performing WODs Technical Essay
 date: 2021-02-16
 labels: Invoice1, WODs, Technical Essay
 ---
+
 ## Invoice 1
 [Please use this link to view instructions to the WOD and further details] (https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html)
 
