@@ -28,7 +28,7 @@ To be honest, no... The labs are great for learning concepts but making them due
 
 ## I feel ready I am ready to work on the next stage of complexity in programming (building small web applications like Assignment 1).
 
-Nope, no, and negative. Assignment 1 and perhaps one more Assignment should have been the final assignments and big portions of our grade, no Assignment 3. Even Assignment 2 is pushing it, Assignment 1 was not hard but we basically had 1 week to do it as not Lab 12 & 13 weren't covered (granted the server and data validation became extra credit). 
+Nope, no, and negative. Assignment 1 and perhaps one more Assignment should have been the final assignments and big portions of our grade, no Assignment 3. Even Assignment 2 is pushing it, Assignment 1 was not hard but we basically had 1 week to do it because Lab 12 & 13 weren't covered (granted the server and data validation became extra credit). 
 
 ## I think the class can be improved to help my learning in the following ways:
 
