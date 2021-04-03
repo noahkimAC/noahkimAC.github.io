@@ -44,4 +44,4 @@ I mean the quizzes? Those took forever and affect a significant portion of the g
 
 I appreciate the recorded lectures and Professor Port's office hours, it really reassures me that he is always willing to help me with problems I may have. The recorded lectures make the labs much easier to complete especially when I don't have time to revisit every single screencast, readings and etc. 
 
-I also LOVE the WOD screencasts because knowing that there is a way to ensure I am on the right track really keeps me from feeling despair whenever I am assigned a new WOD. I think the instructions are always pretty self-explanatory and clear which is always helpful in such a technically-centric course.
+I also LOVE the WOD screencasts because knowing that there is a way to ensure I am on the right track really keeps me from feeling despair whenever I am assigned a new WOD. I think the instructions are always pretty self-explanatory and clear which is always helpful in such a technical course.
