@@ -6,7 +6,7 @@ date: 2021-04-23
 labels: Assignment2, Essay, Validation, Login, Registration, User Data, 
 ---
 ## Provide a brief introduction to the assignment along with a link to this page for further details
-Assignment 2 was creating a functioning user database, login page, and registration page. There was a specific order that the webpage had to implement before letting the user view their invoice. The user was to first order their quantities, then be taken to the login page where they were required to either login or register a new account. The server had to validate their request with either guards or server validation to check for example, if the password was repeated correctly, the user name was taken, and so that the proper error alerts would pop up in response to the error made. 
+Assignment 2 was creating a functioning user database, login page, and registration page. There was a specific order that the webpage had to implement before letting the user view their invoice. The user was to first order their quantities, then be taken to the login page where they were required to either login or register a new account. The server had to validate their request with either guards or user validation to check if the password was repeated correctly, the user name was taken, and if the proper error alerts would display in response to the error made. 
 
 To see the assignment 
 https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html
