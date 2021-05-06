@@ -6,7 +6,7 @@ date: 2021-05-05
 labels: Assignment3, Essay, Cookies, Sessions, Shopping Cart, Last Assignment 
 ---
 ## Show what each page will look like. The pages do not have to be “functional” but the design should clear.
-<img class="ui large center spaced image" src="../images/Checkpoint Assignment #3 Noah Kim.pdf">
+<img class="ui large center spaced image" src="../images/MacShack_Pages.pdf">
 
 
 ## Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart. 
