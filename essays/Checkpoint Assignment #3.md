@@ -6,7 +6,7 @@ date: 2021-05-05
 labels: Assignment3, Essay, Cookies, Sessions, Shopping Cart, Last Assignment 
 ---
 #### Link to my Checkpoint Assignment #3 Screencast
-https://www.youtube.com/watch?v=BOlEsLiEGMs
+<a href="https://www.youtube.com/watch?v=BOlEsLiEGMs">Checkpoint Assignment #3 Screencast</a>
 
 ## Show what each page will look like. The pages do not have to be “functional” but the design should clear.
 <img class="ui large center spaced image" src="../images/MacShack_Pages.jpg">
