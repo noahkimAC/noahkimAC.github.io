@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Checkpoint Assignment #3
+title: Checkpoint Assignment 3
 date: 2021-05-05
 labels: Assignment3, Essay, Cookies, Sessions, Shopping Cart, Last Assignment 
 ---
