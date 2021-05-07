@@ -5,6 +5,9 @@ title: Checkpoint Assignment #3
 date: 2021-05-05
 labels: Assignment3, Essay, Cookies, Sessions, Shopping Cart, Last Assignment 
 ---
+#### Link to my Checkpoint Assignment #3 Screencast
+[![Checkpoint Assignment #3 Noah Kim](//img.youtube.com/?v=BOlEsLiEGMs.jpeg)](www.youtube.com/watch?v=BOlEsLiEGMs)
+
 ## Show what each page will look like. The pages do not have to be “functional” but the design should clear.
 <img class="ui large center spaced image" src="../images/MacShack_Pages.jpg">
 
@@ -19,7 +22,7 @@ I am currently and will continue to use sessions by storing the product quantiti
 ## How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?
 As of right now, I have my server verfiy whether users are logged in/ registered, if they are not then they cannot purchase products or view their invoice. 
 
-I still have to work on how to do this by utilizing cookies which will check whether or not the user has one. If the user does not have a cookie, I plan to make it so that they will not be able to checkout. It differs slightly from what I am doing now as I am only checking this through my server.js, login.html, and register.html rather than using cookies. After completing these security concerns, I plan on asking Professor Port for with encryption. 
+I still have to work on how to do this by utilizing cookies which will check whether or not the user has one. If the user does not have a cookie, I plan to make it so that they will not be able to checkout. It differs slightly from what I am doing now as I am only checking this through my server.js, login.html, and register.html rather than using cookies. After completing these security concerns, I plan on asking Professor Port for help with encryption. 
 
 Possible security concerns are that users may still acces the checkout page withtout an account which is why I felt using cookies were integral in solidfying my application's security. 
 
