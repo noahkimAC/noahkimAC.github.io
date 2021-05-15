@@ -7,7 +7,7 @@ labels: Assignment3, Shopping Cart, Edit/ Update Cart, nodemailer, Product Pages
 ---
 
 ## Briefly describe your system (e.g. A store selling Pokemon game cards)
-My website, Noah's Mac Shack, was a online "Apple Authorized Retailer" that sold only M1 and H1 chipped devices as well as accessories for these devices. I offer 4 different product categories: Laptops, Desktops, Airpods, and Externals which have different M1 and H1 devices at various price ranges and features. 
+My website, Noah's Mac Shack, is an online "Apple Authorized Retailer" that sold only M1 and H1 chipped devices as well as accessories for these devices. I offer 4 different product categories: Laptops, Desktops, Airpods, and Externals which have different M1 and H1 devices at various price ranges and features. 
 
 The reason: My previous laptop broke over Winter Break (2020) and going into ITM 352, I knew I needed a better system so I bought a Mac mini M1 and got a replacement MacBook Pro M1. These devices were not my first choice because I wanted to build a PC but the M1 devices were so good to me that I wanted to make shopping for systems as easy as it could have been for me. 
 
